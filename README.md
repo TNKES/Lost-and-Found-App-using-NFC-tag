@@ -1,4 +1,4 @@
-# "2017년 서울시 앱 공모전 출품작(나띵 - 나의thing은 어디에 ?!)"
+# 2017년 서울시 앱 공모전 출품작(나띵 - 나의thing은 어디에 ?!)
 
 # Lost and Found App using NFC tag
 NFC App for Android Smart Phones
